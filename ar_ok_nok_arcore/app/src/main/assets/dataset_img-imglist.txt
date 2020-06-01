@@ -1,0 +1,6 @@
+3d_model_above.png|C:\Users\merwan.birem\Android_Projects\ar_second_application\app\sampledata\dataset_img/3d_model_above.png
+3d_model_above_not_ok.png|C:\Users\merwan.birem\Android_Projects\ar_second_application\app\sampledata\dataset_img/3d_model_above_not_ok.png
+3d_model_above_ok.png|C:\Users\merwan.birem\Android_Projects\ar_second_application\app\sampledata\dataset_img/3d_model_above_ok.png
+qrcod_by_image.png|C:\Users\merwan.birem\Android_Projects\ar_second_application\app\sampledata\dataset_img/qrcod_by_image.png
+text_and_image_at_the_right.png|C:\Users\merwan.birem\Android_Projects\ar_second_application\app\sampledata\dataset_img/text_and_image_at_the_right.png
+text_at_the_right.png|C:\Users\merwan.birem\Android_Projects\ar_second_application\app\sampledata\dataset_img/text_at_the_right.png

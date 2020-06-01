@@ -1,0 +1,56 @@
+{
+  materials: [
+    {
+      name: 'SVGMat.001',
+      parameters: [
+        {
+          baseColor: [
+            0.23074,
+            0.53947900000000004,
+            0.051269000000000002,
+            1,
+          ],
+        },
+        {
+          baseColorMap: null,
+        },
+        {
+          normalMap: null,
+        },
+        {
+          interpolatedColor: null,
+        },
+        {
+          metallic: 0,
+        },
+        {
+          metallicMap: null,
+        },
+        {
+          roughness: 1,
+        },
+        {
+          roughnessMap: null,
+        },
+        {
+          opacity: null,
+        },
+      ],
+      source: 'build/sceneform_sdk/default_materials/fbx_material.sfm',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: 'sampledata/models/ok_nok/ok_blender.obj',
+    name: 'ok_blender',
+    recenter: 'root',
+    scale: 0.025
+  },
+  version: '0.54:2',
+}
